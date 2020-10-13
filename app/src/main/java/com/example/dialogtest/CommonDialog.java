@@ -10,7 +10,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 /**
-* description:自定义dialog      hhhhh
+* description:自定义dialog      666
 */
 
 public class CommonDialog extends Dialog {
